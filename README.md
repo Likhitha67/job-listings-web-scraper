@@ -1,6 +1,6 @@
 # Job Listings Web Scraper
 
-A beginner-friendly Python web scraping project that extracts structured job listing information from an HTML webpage and performs basic job and skill analysis.
+A Python web scraping project that extracts structured job listing information from an HTML webpage and performs basic job and skill analysis.
 
 ## Project Overview
 
@@ -38,8 +38,6 @@ Job Listings Web Scraper/
 ├── job_listings.html
 ├── job_scraper.py
 ├── jobs.csv
-├── scraper.py
-├── books.csv
 ├── requirements.txt
 ├── .gitignore
 └── README.md
