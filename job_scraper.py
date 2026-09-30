@@ -1,6 +1,13 @@
 from bs4 import BeautifulSoup
 import pandas as pd
 
+pd.set_option("display.max_columns", None)
+pd.set_option("display.width", 120)
+
+print("=" * 60)
+print("        JOB LISTINGS WEB SCRAPER")
+print("=" * 60)
+
 with open("job_listings.html", "r", encoding="utf-8") as file:
     html = file.read()
 

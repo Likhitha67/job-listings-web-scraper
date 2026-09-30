@@ -35,7 +35,6 @@ It also performs basic analysis such as:
 
 ```text
 Job Listings Web Scraper/
-│
 ├── job_listings.html
 ├── job_scraper.py
 ├── jobs.csv
